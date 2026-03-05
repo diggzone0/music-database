@@ -6,7 +6,7 @@ A Python-based music search tool that queries a **local database** for fast look
 
 ## 📌 Overview
 
-`musicdb` is a command-line utility designed to provide fast and comprehensive music search capabilities:
+`musicdb.py` is a command-line utility designed to provide fast and comprehensive music search capabilities:
 
 - ⚡ **Local Search** — Queries a local database for instant results
 - 🌐 **Online Search** — Falls back to online sources when deeper results are needed
@@ -27,7 +27,7 @@ A Python-based music search tool that queries a **local database** for fast look
 
 ## 🚀 How to Run
 ```bash
-python3 musicdb
+python3 musicdb.py
 ```
 
 ---
@@ -61,5 +61,5 @@ music-database/
 ## 📝 Notes
 
 - This project was built with AI assistance and runs in a WSL (Windows Subsystem for Linux) environment
-- Script is executed directly via `python3 musicdb`
+- Script is executed directly via `python3 musicdb.py`
 
