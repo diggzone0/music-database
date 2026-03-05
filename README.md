@@ -1,4 +1,4 @@
-# 🎵 music-database
+# 🎵 music-search-database
 
 A Python-based music search tool that queries a **local database** for fast lookups and falls back to **online sources** for deeper search results.
 
