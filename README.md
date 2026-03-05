@@ -1,4 +1,4 @@
-# musicdb
+# musicdb – My Music Search Tool
 
 A small command-line program for searching a local music database.
 
